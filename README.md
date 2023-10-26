@@ -10,7 +10,7 @@
 - 📚 I am currently a sophomore studying Computer Science and Data Science at Vanderbilt University
 - 💪🏼 Future Goals: Learn more technologies to become a better web and app developer
 - ⚡ Fun fact: I love playing volleyball 🏐 and soccer ⚽️
-- 👨‍💻 Visit my personal website [here] ()
+
 
 
 
