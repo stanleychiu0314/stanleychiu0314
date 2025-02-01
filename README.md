@@ -7,7 +7,7 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
-- 📚 I am currently a sophomore studying Computer Science and Data Science at Vanderbilt University
+- 📚 I am currently a junior studying Computer Science and Human Organizational Development at Vanderbilt University
 - 💪🏼 Future Goals: Learn more technologies to become a better web and app developer
 - ⚡ Fun fact: I love playing volleyball 🏐 and soccer ⚽️
 
